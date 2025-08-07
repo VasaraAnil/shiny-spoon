@@ -1,2 +1,13 @@
 streamlit
 selenium
+pandas
+openpyxl
+chromedriver-autoinstaller
+pyttsx3
+watchdog
+shutilwhich
+python-docx
+requests
+xlrd
+xlsxwriter
+glob2
